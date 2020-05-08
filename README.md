@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
+
+# Projects
+
+## Centralized Configuration Manager
+
+### Server
+
+[repository](https://github.com/mathyslv/ccm)
+
+### GUI
+
+[repository](https://github.com/mathyslv/ccm-gui)
+[website](http://ccg-gui.default.137.117.164.59.xip.io/#/profiles)
+
+# About Github Pages
 
 You can use the [editor on GitHub](https://github.com/mathyslv/mathyslv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
